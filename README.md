@@ -8,20 +8,29 @@
 -   Bootstrap
 
 ```shell
-npm run bootstrap
+pnpm bootstrap
 ```
 
 -   Run Dev
 
 ```shell
-npm run dev
+pnpm dev
 ```
 
 -   Run Build
 
 ```shell
-npm run build
+pnpm build
 ```
+
+- Clean Build
+
+```shell
+pnpm clean
+```
+
+### References
+- [https://lerna.js.org/docs/recipes/using-pnpm-with-lerna](https://lerna.js.org/docs/recipes/using-pnpm-with-lerna)
 
 ### Contributors
 
