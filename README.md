@@ -5,10 +5,10 @@
 
 ### Usages
 
--   Bootstrap
+-   Install
 
 ```shell
-pnpm bootstrap
+pnpm install
 ```
 
 -   Run Dev
